@@ -7,5 +7,5 @@ It has the following capabilities:
 + password in the form of symbols
 + Copy the password
 
-please install pillow
++ please install pillow
 pip install pillow
