@@ -9,4 +9,4 @@ It has the following capabilities:
 
 + please install pillow
 
-pip install pillow
+   pip install pillow
