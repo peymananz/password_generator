@@ -8,4 +8,5 @@ It has the following capabilities:
 + Copy the password
 
 + please install pillow
+
 pip install pillow
